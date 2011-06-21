@@ -9,7 +9,7 @@ menu:
       href: install.html
 
 module_details:
-    name: fqgrep
+    name: sff2fastq
     icon: res/images/icon_48.png
 
 download_link: install.html
