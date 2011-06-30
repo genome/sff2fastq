@@ -2,7 +2,7 @@ The installation process currently consists of a very simple Makefile.
 
 Just do the following:
 
-  git clone git://github.com/indraniel/sff2fastq.git;
+  git clone git://github.com/genome/sff2fastq.git;
   cd sff2fastq;
   make; 
 

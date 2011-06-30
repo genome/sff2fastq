@@ -10,11 +10,10 @@
      -n                  Output the untrimmed sequence
      -o <fastq_file>     Desired fastq output file. If not specified, 
                          defaults to stdout
-# DESCRIPTION
 
 # NOTES
 
-This has been successfully compiled on Linux/Ubuntu 8.04 & 9.10
+This has been successfully compiled on Linux/Ubuntu 8.04, 9.10, & 10.04
 workstations (both 32-bit and 64-bit machines), and on Mac OS X (version
 10.5).  Compiling on other types of operating systems and architectures
 has not been experimented upon.
@@ -36,5 +35,4 @@ This software is provided "as is" without warranty of any kind.
 
 # COPYRIGHT
 
-`sff2fastq` is free software, distributed under the terms of the GNU GPL v3 or later: http://gnu.org/licenses/gpl.html.
-
+`sff2fastq` is free software, distributed under the terms of the [GNU GPL v3 or later](http://gnu.org/licenses/gpl.html).
