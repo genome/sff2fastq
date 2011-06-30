@@ -2,9 +2,9 @@ The installation process currently consists of a very simple Makefile.
 
 Just do the following:
 
-  git clone git://github.com/genome/sff2fastq.git;
-  cd sff2fastq;
-  make; 
+    git clone git://github.com/genome/sff2fastq.git;
+    cd sff2fastq;
+    make; 
 
 The 'sff2fastq' executable should be in the working directory.
 Afterwards, you can move the executable to wherever you wish. Usually,
