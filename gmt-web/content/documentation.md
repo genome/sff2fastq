@@ -5,11 +5,11 @@
 # SYNOPSIS
 
 <pre class="terminal">
-    sff2fastq [options] <sff_file>
-     -h                  This help message   
-     -v                  Program and version information
-     -n                  Output the untrimmed sequence
-     -o <fastq_file>     Desired fastq output file. If not specified, 
+sff2fastq [options] &lt;sff_file&gt;
+-h                  This help message   
+-v                  Program and version information
+-n                  Output the untrimmed sequence
+-o <fastq_file>     Desired fastq output file. If not specified, 
                          defaults to stdout
 </pre>
 
