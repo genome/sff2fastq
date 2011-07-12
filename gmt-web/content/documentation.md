@@ -9,7 +9,7 @@ sff2fastq [options] &lt;sff_file&gt;
 -h                  This help message   
 -v                  Program and version information
 -n                  Output the untrimmed sequence
--o <fastq_file>     Desired fastq output file. If not specified, 
+-o &lt;fastq_file&gt;     Desired fastq output file. If not specified, 
                          defaults to stdout
 </pre>
 
