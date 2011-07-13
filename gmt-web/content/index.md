@@ -1,3 +1,8 @@
+Introduction
+------------
+
+* * *
+
 `sff2fastq` extracts read information from a 
 [SFF file](http://en.wikipedia.org/wiki/Standard_Flowgram_Format) 
 produced by the [454](http://en.wikipedia.org/wiki/454_Life_Sciences) 
