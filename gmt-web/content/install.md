@@ -1,4 +1,5 @@
-## Download
+Download
+--------
 The installation process currently consists of a very simple Makefile.
 
 Just do the following:
